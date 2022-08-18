@@ -1,4 +1,4 @@
-import React, { Fragment, useState, useEffect, useMemo }  from 'react';
+import React, { useState, useMemo }  from 'react';
 
 const Tictactoe = () =>  {
     const dimension: number = 3;
